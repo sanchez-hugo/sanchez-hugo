@@ -14,8 +14,7 @@
 [![alt text][7.3]][7]
 
 
-[![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=sanchez-hugo)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchez-hugo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
