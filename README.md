@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![alt text][5.1]][5]
 -->
 [![alt text][6.1]][6]
-
+[![alt text][7.3]][7]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -50,15 +50,21 @@ Here are some ideas to get you started:
 [5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
+<!-- Others -->
+[7.3]: https://i.imgur.com/XKqiLJW.png (linkedin unknown padding)
+
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
+<!--
+[1]: 
+[2]: 
+[3]: 
+[4]: 
+[5]: 
+-->
 [6]: http://www.github.com/sanchez-hugo
+[7]: https://www.linkedin.com/in/hogolino-sanchez/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
