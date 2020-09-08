@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 <!-- Others -->
-[7.3]: https://i.imgur.com/XKqiLJW.png (linkedin unknown padding)
+[7.3]: https://i.imgur.com/XQ3Nyrk.png (linkedin unknown padding)
 
 
 <!-- links to your social media accounts -->
