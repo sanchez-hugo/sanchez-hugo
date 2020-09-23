@@ -28,7 +28,7 @@
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (my github profile)
 
 <!-- icons without padding -->
 
@@ -40,7 +40,7 @@
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 <!-- Others -->
-[7.3]: https://i.imgur.com/XQ3Nyrk.png (linkedin unknown padding)
+[7.3]: https://i.imgur.com/XQ3Nyrk.png (my linkedin profile)
 
 
 <!-- links to your social media accounts -->
