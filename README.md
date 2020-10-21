@@ -4,7 +4,6 @@
 <!-- display the social media buttons in your README -->
 
 <!-- 
-
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
