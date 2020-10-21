@@ -4,12 +4,13 @@
 <!-- display the social media buttons in your README -->
 
 <!-- 
-[![alt text][1.1]][1]
+
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 -->
+[![alt text][1.1]][1]
 [![alt text][6.1]][6]
 [![alt text][7.3]][7]
 
@@ -23,12 +24,12 @@
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (sanchez_hugo_)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (my github profile)
+[6.1]: http://i.imgur.com/0o48UoR.png (sanchez-hugo)
 
 <!-- icons without padding -->
 
@@ -40,7 +41,7 @@
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 <!-- Others -->
-[7.3]: https://i.imgur.com/XQ3Nyrk.png (my linkedin profile)
+[7.3]: https://i.imgur.com/XQ3Nyrk.png (hogolino-sanchez)
 
 
 <!-- links to your social media accounts -->
